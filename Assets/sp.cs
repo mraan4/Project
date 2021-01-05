@@ -6,6 +6,8 @@ using UnityEngine.UI;
 public class sp : MonoBehaviour
 {
 
+    //테스트용 코드
+
     Rigidbody2D body;
     public fly fly;
     public GameObject Box1;
